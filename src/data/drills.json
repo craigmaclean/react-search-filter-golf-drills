@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Gate Drill",
+    "type": "Putting",
+    "level": "Beginner",
+    "focus": "Start line",
+    "description": "Place two tees just wider than your putter to create a gate. Practice rolling putts through the gate to improve your starting line accuracy.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "green"
+  },
+  {
+    "id": 2,
+    "name": "Chip & Check",
+    "type": "Short Game",
+    "level": "Intermediate",
+    "focus": "Landing spot control",
+    "description": "Pick a landing spot and chip to it repeatedly. Check your results and adjust until you can consistently hit your target.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "green-light"
+  },
+  {
+    "id": 3,
+    "name": "Alignment Stick Drill",
+    "type": "Full Swing",
+    "level": "Beginner",
+    "focus": "Swing path",
+    "description": "Place alignment sticks on the ground to guide your swing path. Practice swinging along the proper path to improve ball-striking consistency.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "teal"
+  },
+  {
+    "id": 4,
+    "name": "Distance Control Ladder",
+    "type": "Putting",
+    "level": "Intermediate",
+    "focus": "Speed control",
+    "description": "Putt to progressively longer distances, focusing on speed control. Try to get each putt within a putter length of the target.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "deep-teal"
+  },
+  {
+    "id": 5,
+    "name": "Towel Drill",
+    "type": "Full Swing",
+    "level": "Advanced",
+    "focus": "Clean contact",
+    "description": "Place a towel behind the ball. Practice hitting shots without hitting the towel to ensure ball-first contact and improve strike quality.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "forest-green"
+  },
+  {
+    "id": 6,
+    "name": "Coin Behind Ball",
+    "type": "Putting",
+    "level": "Beginner",
+    "focus": "Solid contact",
+    "description": "Place a coin behind your ball. Practice hitting putts while avoiding the coin to develop a clean, forward-striking motion.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "navy-blue"
+  },
+  {
+    "id": 7,
+    "name": "One-Handed Chipping",
+    "type": "Short Game",
+    "level": "Beginner",
+    "focus": "Feel & control",
+    "description": "Practice chipping with only your lead hand to develop better feel and control. This drill helps improve touch around the greens.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "deep-purple"
+  },
+  {
+    "id": 8,
+    "name": "Punch Shot Drill",
+    "type": "Full Swing",
+    "level": "Intermediate",
+    "focus": "Trajectory control",
+    "description": "Practice hitting low, penetrating punch shots. Keep your hands ahead and finish low to control ball flight in windy conditions.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "maroon"
+  },
+  {
+    "id": 9,
+    "name": "Up & Down Challenge",
+    "type": "Short Game",
+    "level": "Advanced",
+    "focus": "Scrambling skills",
+    "description": "Practice getting up and down from various locations around the green. Track your success rate to improve your short game performance.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "rust"
+  },
+  {
+    "id": 10,
+    "name": "Clock Drill",
+    "type": "Putting",
+    "level": "Advanced",
+    "focus": "Short-putt pressure",
+    "description": "Place balls around the hole like a clock face. Make all putts in succession to build confidence and handle pressure on short putts.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "color": "charcoal"
+  }
+]
