@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import './App.css'
 import DrillCard from './components/DrillCard';
 import FilterSelect from './components/FilterSelect';
@@ -70,8 +70,6 @@ export default function App() {
             ))
           )}
         </div>
-
-        {/* Empty State (optional) */}
         
       </div>
     </div>
